@@ -2,7 +2,7 @@
 
     class Caneta{
         public $modelo;
-        public $cor;
+        public $cor; 
         private $ponta;
         protected $carga;
         protected $tampada;
